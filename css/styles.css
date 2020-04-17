@@ -95,7 +95,7 @@ img {
 /* Classes to be added with Javascript */
 
 .trnsf {
-    transform: translateX(180px);
+    transform: translateX(200px);
 }
 
 .trnsf-reset {
